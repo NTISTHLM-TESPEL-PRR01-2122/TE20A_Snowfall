@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TE20A_Snowfall", "TE20A_Snowfall\TE20A_Snowfall.csproj", "{CBF63FE2-9591-485C-A64B-783066DB80BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBF63FE2-9591-485C-A64B-783066DB80BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF63FE2-9591-485C-A64B-783066DB80BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF63FE2-9591-485C-A64B-783066DB80BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF63FE2-9591-485C-A64B-783066DB80BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
